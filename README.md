@@ -1,5 +1,5 @@
-# RECRA4
-Recuperação do RA4 sobre desempenho de diferentes tabelas hash em Java.
+# RECRA3
+Recuperação do RA3 sobre desempenho de diferentes tabelas hash em Java.
 
 Abaixo temos graficos do tempo da insercao por cada tipo de hash. (Dobramento, multipliacao, e Resto da Divisao)
 
