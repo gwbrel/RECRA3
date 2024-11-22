@@ -8,7 +8,7 @@ public class GeradorDados {
         // Definição manual dos tamanhos de tabela e conjunto de dados
         int[] tamanhosTabela = {1000, 10000, 100000}; // tamanho das tabelas
         int[] tiposHash = {1, 2, 3}; // 1 = resto da divisão, 2 = multiplicação, 3 = dobramento
-        int[] tamanhosConjunto = {10000, 100000, 100000}; // numero dos registros
+        int[] tamanhosConjunto = {10000, 100000, 1000000}; // numero dos registros
 
         // funcao para calcular o tamanho dos arrays (unica maneira q encontrei de fazer sem .lenght)
         int tamanhoTamanhosTabela = tamanhoArray(tamanhosTabela);
